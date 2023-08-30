@@ -1,0 +1,69 @@
+[
+
+    {
+        "id":"1",
+        "name":"FlyGuyz Vault",
+        "image":"assets/images/seller/1.png",
+        "verified": true,
+        "prfileLink":"/",
+        "collected":"FlyGuyz vault is seeded with 50% of initial mint and 50% royalties",
+        "increament":38.78,
+        "sales":"5600"
+    },
+    {
+        "id":"2",
+        "name":"FlyGuyz Diversity",
+        "image":"assets/images/seller/2.png",
+        "verified": true,
+        "prfileLink":"/",
+        "collected":"The primary focus of FlyGuyz is acquiring blue chip NFT brands and top crypto assets, FlyGuyz holder's will have a pro-rasta vote and share the holdings.",
+        "increament":-2.78,
+        "sales":"5200"
+        
+    },
+    {
+        "id":"3",
+        "name":"FlyGuyz Member Club",
+        "image":"assets/images/seller/3.png",
+        "verified": true,
+        "prfileLink":"/",
+        "collected":"We are bringing investors and innovators who together will be the future leaders of web3 innovations!",
+        "increament":18.8,
+        "sales":"4820"
+    },
+    {
+        "id":"4",
+        "name":"FlyGuyz Partnership/Collaboration",
+        "image":"assets/images/seller/4.png",
+        "verified": true,
+        "prfileLink":"/",
+        "collected":"FlyGuyz's discord and telegram is filled with quality research, alpha calls, and whitelist marketplace, in addition we will be seeking meaningful partnerships and provide discounts and blue chip giveaways to our holders!",
+        "increament":-23.81,
+        "sales":"3698"
+    },
+    {
+        "id":"5",
+        "name":"FlyGuyz Entering Metaverse",
+        "image":"assets/images/seller/5.png",
+        "verified": true,
+        "prfileLink":"/",
+        "collected":"We are establishing and maintaining a strong presence in the metaverse that will be vital for our brand. We will acquire land in multiple platforms which will be used to develop assets for our community!",
+        "increament":48.38,
+        "sales":"3698"
+    },
+    {
+        "id":"6",
+        "name":"FlyGuyz Play2Earn",
+        "image":"assets/images/seller/6.png",
+        "verified": true,
+        "prfileLink":"/",
+        "collected":"FlyGuyz will be introducing a high quality, mainstream, style gaming to the blockchain. The users who hold $Flyy Token are an active part of the FlyGuyz ecosystem and earn rewards in the form of $Flyy Tokens!",
+        "increament":-8.78,
+        "sales":"3698"
+    }
+ 
+
+    
+    
+    
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "id":"1",
+        "title":"Round 1 (Private Sale)",
+        "tokenPrice": "0.020",
+        "noOfToken":"110 Million Tokens",
+        "buttonText":"LIVE NOW",
+        "items":888000000,
+        "wish":11.3,
+        "users": [
+            {
+                "id":"1",
+                "name":"Token Name: FlyGuyz",
+         
+                "image":"assets/images/seller/collector-4.gif",
+                "verified": false,
+                "prfileLink":"/"
+            }
+        ],
+        "products":[
+            {
+                "id":1,
+                "image":"assets/images/nft-item/category/02.gif"
+            }
+     
+        ]
+    },
+    {
+        "id":"2",
+        "title":"Round 2",
+        "tokenPrice": "0.030",
+        "noOfToken":"100 Million Tokens",
+        "buttonText":"COMING SOON",
+        "items":888000000,
+        "wish":11.3,
+       
+        "users": [
+            {
+                "id":"1",
+                "name":"Token Name: FlyGuyz",
+                "image":"assets/images/seller/collector-4.gif",
+                "verified": false,
+                "prfileLink":"/"
+            }
+        ],
+        "products":[
+            {
+                "id":1,
+                "image":"assets/images/nft-item/category/02.gif"
+            }
+     
+        ]
+    },
+    {
+        "id":"3",
+        "title":"Round 3 (Listing Price)",
+        "tokenPrice": "0.050",
+        "noOfToken":"",
+        "buttonText":"COMING SOON",
+        "items":888000000,
+        "wish":"Coming soon",
+        "users": [
+            {
+                "id":"1",
+                "name":"Token Name: FlyGuyz",
+                "image":"assets/images/seller/collector-4.gif",
+                "verified": false,
+                "prfileLink":"/"
+            }
+        ],
+        "products":[
+            {
+                "id":1,
+                "image":"assets/images/nft-item/category/02.gif"
+            }
+     
+        ]
+    }
+ 
+]
